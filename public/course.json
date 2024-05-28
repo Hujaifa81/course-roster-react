@@ -1,0 +1,65 @@
+[
+  {
+    "course_img": "https://i.ibb.co/JKfX83f/Rectangle-2-2.png",
+    "course_name": "Introduction to Programming",
+    "description": "Learn coding fundamentals with hands-on exercises in Python and JavaScript. Perfect for beginners and skill refreshers.",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "course_img": "https://i.ibb.co/72SSMR7/Rectangle-2.png",
+    "course_name": "Data Science Fundamentals",
+    "description": "Master data analysis, visualization, and machine learning. Excel in the data-driven world with practical projects.",
+    "price": 79.99,
+    "credit": 4
+  },
+  {
+    "course_img": "https://i.ibb.co/rGth4JZ/Rectangle-2-1.png",
+    "course_name": "Web Development Bootcamp",
+    "description": "Take your web development skills to the next level. Learn HTML, CSS, JavaScript, and more. Start your journey today!",
+    "price": 99.99,
+    "credit": 5
+  },
+  {
+    "course_img": "https://i.ibb.co/Qj1nJdL/Rectangle-2-3.png",
+    "course_name": "Digital Marketing Essentials",
+    "description": "Navigate digital marketing strategies effectively. Optimize campaigns for business growth in the digital era.",
+    "price": 59.99,
+    "credit": 3
+  },
+  {
+    "course_img": "https://i.ibb.co/Fh4H7gB/Rectangle-2-4.png",
+    "course_name": "AI & Machine Learning",
+    "description": "Immerse yourself in AI and ML. Explore core algorithms and real-world applications. Equip yourself for success.",
+    "price": 89.99,
+    "credit": 4
+  },
+  {
+    "course_img": "https://i.ibb.co/LzCfygv/Rectangle-2-5.png",
+    "course_name": "Graphic Design Mastery",
+    "description": "Unleash your creativity as a graphic designer. Learn design principles, typography, image editing, and more.",
+    "price": 69.99,
+    "credit": 3
+  },
+  {
+    "course_img": "https://i.ibb.co/bshx4Wm/Rectangle-2-6.png",
+    "course_name": "Finance & Accounting",
+    "description": "Gain expertise in finance and accounting. Master financial statements, budgeting, and decision-making.",
+    "price": 79.99,
+    "credit": 4
+  },
+  {
+    "course_img": "https://i.ibb.co/xGwtRxt/Rectangle-3.png",
+    "course_name": "Photography Basics",
+    "description": "Capture breathtaking moments with our photography course. Learn camera settings, composition, and more.",
+    "price": 49.99,
+    "credit": 2
+  },
+  {
+    "course_img": "https://i.ibb.co/3hY7tTM/Rectangle-3-1.png",
+    "course_name": "Cybersecurity Fundamentals",
+    "description": "Safeguard digital assets against cyber threats. Explore network security, encryption, and risk management.",
+    "price": 69.99,
+    "credit": 3
+  }
+]
